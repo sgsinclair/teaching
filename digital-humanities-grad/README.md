@@ -1,6 +1,6 @@
 # LLCU-602: Digital Humanities (Fall 2017)
 Instructor: Prof. S. Sinclair (@sgsinclair)<br>
-Seminars Mondays from 1pm to 3:30pm in SH688, room 485<br>
+Seminars Mondays from 1pm to 3:30pm in SH688, room 486<br>
 Office Hours: Mondays noon-1pm or by appointment
 
 ## Summary
