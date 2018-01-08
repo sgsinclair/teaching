@@ -18,11 +18,11 @@ Given the nature of the course, the weekly schedule will be driven by your prior
 
 ## Assignments & Evaluations
 
-|Component|Weight|Notes|
-|meetings|20%|do you attend regular meetings (at least by-monthly) and are you sufficiently prepared?|
-|project blog|30%|are you posting weekly progress reports punctually, including assigned milestones? are they thoughtful and well expressed?|
-|final project|35%|is your project an appropriate culmination of the class?|
-|presentation|15%|is your presentation effective, engaging and informative?|
+| Component | Weight | Notes (additional criteria will be provided) |
+| --- | --- | --- |
+| blog & meetings | 30% | is your blog thoughtful? is your effort consistent & sufficient? |
+| project proposal | 20% | is your project well conceived, described and planned? |
+| project | 50% | is your project well executed? is the presentation effective? |
 
 ## Policies
 
