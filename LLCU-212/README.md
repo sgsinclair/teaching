@@ -1,6 +1,6 @@
 # LLCU-212: Understanding Digital and Social Media
 
-* Professor S. Sinclair (@sgsinclair)
+* Professor S. Sinclair (@sgsinclair), McGill University, Fall 2018
 * Lectures: Fridays 11:35-13:25 in LEA109
 * Tutorials: Mondays __or__ Wednesdays 15:35-16:25 in SH688 1065
 * Office Hours: before and after lectures or by appointment in SH688 341
