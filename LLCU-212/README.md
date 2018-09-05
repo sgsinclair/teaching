@@ -52,7 +52,7 @@ There is no textbook required for this course. All readings will be made availab
 | 25%    | mid-term test on lecture materials Oct 19 |
 | 25%    | end-term test on lecture materials Nov 30 |
 | 20%    | technical mini-assignments from tutorials throughout term |
-| 5%     | show-and-tell: flash presentation on something of interest |
+| 5%     | digital show-and-tell: 1 minute presentation on something of interest |
 | 25%    | final multimedia work due at the end of term |
 
 ## Policies
