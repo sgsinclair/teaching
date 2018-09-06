@@ -20,7 +20,7 @@ There are no textbooks or required materials.
 
 ## Assignments & Evaluations
 
-| Weigth | Description |
+| Weight | Description |
 | ------ | ----------- |
 | 30%    | blog & meetings: is your blog thoughtful? is your effort consistent & sufficient? |
 | 20%    | project proposal: is your project well conceived, described and planned? |
