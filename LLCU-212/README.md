@@ -28,32 +28,31 @@ There is no textbook required for this course. All readings will be made availab
 
 ## Schedule
 
-| Week       | Lecture              | Tutorial                                 |
-| ---------- | -------------------- | ---------------------------------------- |
-| 1) Sep 3   | Intro to the course  | (no tutorial)                            |
-| 2) Sep 10  | Information Overload | Intro to Weebly                          |
-| 3) Sep 17  | Web 1.0 to 3.0       | More Weebly & Widgets                    |
-| 4) Sep 24  | Fake News            | HTML & CSS: Intro, Browser, Installation |
-| 5) Oct 1   | Privacy              | HTML & CSS: Source Code Editor           |
-| 6) Oct 8   | Society              | HTML & CSS: Weebly                       |
-| 7) Oct 15  | Mid-term Test        | Images with GIMP                         |
-| 8) Oct 22  | Communication        | Images & Digital Art                     |
-| 9) Oct 29  | Hardware             | Sound Software with Audacity             |
-| 10) Nov 5  | Software             | Sound Coding & Generative Music          |
-| 11) Nov 12 | Digital Media        | Video  Camtasia & DaVinci Resolve        |
-| 12) Nov 19 | Gaming & Hacking     | Video Instations & Animation             |
-| 13) Nov 26 | End-term Test        | Final Project                            |
+| Week       | Lecture                   | Tutorial                                 |
+| ---------- | ------------------------- | ---------------------------------------- |
+| 1) Sep 9   | Information Overload      | Intro to Weebly                          |
+| 2) Sep 16  | Web 1.0 to 3.0            | More Weebly & Widgets                    |
+| 3) Sep 23  | Fake News                 | HTML & CSS: Intro, Browser, Installation |
+| 4) Sep 30  | Privacy                   | HTML & CSS: Source Code Editor           |
+| 5) Oct 7   | Society                   | HTML & CSS: Weebly                       |
+| 6) Oct 14  | (Thanksgiving, cancelled) | Images with GIMP                         |
+| 7) Oct 21  | Communication             | Images & Digital Art                     |
+| 8) Oct 28  | Hardware                  | Sound Software with Audacity             |
+| 9) Nov 4   | Software                  | Sound Coding & Generative Music          |
+| 10) Nov 11 | Digital Media             | Video  Camtasia & DaVinci Resolve        |
+| 11) Nov 18 | Gaming & Hacking          | Video Instations & Animation             |
+| 12) Nov 25 | Artificial Intelligence   | Final Project                            |
+| 13) Dec 2  | End-term Test             | (no tutorial)                            |
 
 
 ## Assignments & Evaluations
 
 | Weight | Description |
 | ------ | ----------- |
-| 25%    | mid-term test on lecture materials Oct 19 |
-| 25%    | end-term test on lecture materials Nov 30 |
-| 20%    | technical mini-assignments from tutorials throughout term |
+| 35%    | end-term test |
+| 30%    | technical mini-assignments from tutorials throughout term |
 | 5%     | digital show-and-tell: 1 minute presentation on something of interest |
-| 25%    | final multimedia work due at the end of term |
+| 30%    | final multimedia work due at the end of term |
 
 ## Policies
 
