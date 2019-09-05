@@ -1,8 +1,8 @@
 # LLCU-212: Understanding Digital and Social Media
 
-* Professor S. Sinclair (@sgsinclair), McGill University, Fall 2018
-* Lectures: Fridays 11:35-13:25 in LEA109
-* Tutorials: Mondays __or__ Wednesdays 15:35-16:25 in SH688 1065
+* Professor S. Sinclair (@sgsinclair), McGill University, Fall 2019
+* Lectures: Mondays 14:35-16:25 in Arts 260 
+* Tutorials: Tuesdays 14:35-15:25 in ENGTR (Trottier) 1080
 * Office Hours: before and after lectures or by appointment in SH688 341
 
 ## Description
@@ -28,21 +28,21 @@ There is no textbook required for this course. All readings will be made availab
 
 ## Schedule
 
-| Week       | Lecture              | Tutorial      |
-| ---------- | -------------------- | --------------|
-| 1) Sep 3   | Intro to the course  | (no tutorial) |
-| 2) Sep 10  | Information Overload | Weebly 1      |
-| 3) Sep 17  | Web 1.0 to 3.0       | Weebly 2      |
-| 4) Sep 24  | Fake News            | HTML & CSS    |
-| 5) Oct 1   | Privacy              | HTML & CSS    |
-| 6) Oct 8   | Society              | Widgets       |
-| 7) Oct 15  | Mid-term Test        | Images 1      |
-| 8) Oct 22  | Communication        | Images 2      |
-| 9) Oct 29  | Hardware             | Sound 1       |
-| 10) Nov 5  | Software             | Sound 2       |
-| 11) Nov 12 | Digital Media        | Video 1       |
-| 12) Nov 19 | Gaming & Hacking     | Video 2       |
-| 13) Nov 26 | End-term Test        | Final Project |
+| Week       | Lecture              | Tutorial                                 |
+| ---------- | -------------------- | ---------------------------------------- |
+| 1) Sep 3   | Intro to the course  | (no tutorial)                            |
+| 2) Sep 10  | Information Overload | Intro to Weebly                          |
+| 3) Sep 17  | Web 1.0 to 3.0       | More Weebly & Widgets                    |
+| 4) Sep 24  | Fake News            | HTML & CSS: Intro, Browser, Installation |
+| 5) Oct 1   | Privacy              | HTML & CSS: Source Code Editor           |
+| 6) Oct 8   | Society              | HTML & CSS: Weebly                       |
+| 7) Oct 15  | Mid-term Test        | Images with GIMP                         |
+| 8) Oct 22  | Communication        | Images & Digital Art                     |
+| 9) Oct 29  | Hardware             | Sound Software with Audacity             |
+| 10) Nov 5  | Software             | Sound Coding & Generative Music          |
+| 11) Nov 12 | Digital Media        | Video  Camtasia & DaVinci Resolve        |
+| 12) Nov 19 | Gaming & Hacking     | Video Instations & Animation             |
+| 13) Nov 26 | End-term Test        | Final Project                            |
 
 
 ## Assignments & Evaluations
