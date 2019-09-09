@@ -34,7 +34,7 @@ There is no textbook required for this course. All readings will be made availab
 | 2) Sep 16  | Web 1.0 to 3.0            | More Weebly & Widgets                    |
 | 3) Sep 23  | Fake News                 | HTML & CSS: Intro, Browser, Installation |
 | 4) Sep 30  | Privacy                   | HTML & CSS: Source Code Editor           |
-| 5) Oct 7   | Society                   | HTML & CSS: Weebly                       |
+| 5) Oct 7   | Society. mini-test        | HTML & CSS: Weebly                       |
 | 6) Oct 14  | (Thanksgiving, cancelled) | Images with GIMP                         |
 | 7) Oct 21  | Communication             | Images & Digital Art                     |
 | 8) Oct 28  | Hardware                  | Sound Software with Audacity             |
@@ -49,10 +49,11 @@ There is no textbook required for this course. All readings will be made availab
 
 | Weight | Description |
 | ------ | ----------- |
-| 35%    | end-term test |
-| 30%    | technical mini-assignments from tutorials throughout term |
+| 15%    | mini-test (Oct 7) |
+| 30%    | end-term test (Dec 2) |
+| 25%    | technical mini-assignments from tutorials throughout term |
 | 5%     | digital show-and-tell: 1 minute presentation on something of interest |
-| 30%    | final multimedia work due at the end of term |
+| 25%    | final multimedia work due at the end of term |
 
 ## Policies
 
