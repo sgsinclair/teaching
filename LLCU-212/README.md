@@ -40,7 +40,7 @@ There is no textbook required for this course. All readings will be made availab
 | 8) Oct 28  | Hardware                  | Sound Software with Audacity             |
 | 9) Nov 4   | Software                  | Sound Coding & Generative Music          |
 | 10) Nov 11 | Digital Media             | Video  Camtasia & DaVinci Resolve        |
-| 11) Nov 18 | Gaming & Hacking          | Video Instations & Animation             |
+| 11) Nov 18 | Gaming & Hacking          | Video Installations & Animation             |
 | 12) Nov 25 | Artificial Intelligence   | Final Project                            |
 | 13) Dec 2  | End-term Test             | (no tutorial)                            |
 
